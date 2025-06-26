@@ -65,7 +65,7 @@ Especializado en desarrollo móvil con Flutter/Android y desarrollo web full sta
 ### 📱 Mobile (Flutter/Android)
 | Proyecto | Descripción | Stats |
 |---------|-------------|--------|
-| [`App_cinema`](https://github.com/G-Kr4V3n/App_cinema) | App de cine hecha con Flutter, arquitectura limpia, y diseño moderno. | ![Repo stats](https://github-readme-stats.vercel.app/api/pin/?username=G-Kr4V3n&repo=App_cinema&theme=radical) |
+| [`App_cinema`](https://github.com/GaboDevCode/cinemapedia) | App de cine hecha con Flutter, arquitectura limpia, y diseño moderno. | ![Repo stats](https://github-readme-stats.vercel.app/api/pin/?username=G-Kr4V3n&repo=App_cinema&theme=radical) |
 
 ### 🌐 Web (Django/PHP/Full Stack)
 | Proyecto | Descripción | Stats |
