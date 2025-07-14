@@ -65,12 +65,14 @@ Especializado en desarrollo móvil con Flutter/Android y desarrollo web full sta
 ### 📱 Mobile (Flutter/Android)
 | Proyecto | Descripción | Stats |
 |---------|-------------|--------|
-| [`App_cinema`](https://github.com/GaboDevCode/cinemapedia) | App de cine hecha con Flutter, arquitectura limpia, y diseño moderno. | ![Repo stats](https://github-readme-stats.vercel.app/api/pin/?username=G-Kr4V3n&repo=App_cinema&theme=radical) |
+| [`cinemapedia`](https://github.com/GaboDevCode/cinemapedia) | App de cine hecha con Flutter, arquitectura limpia y diseño moderno. | ![Repo stats](https://github-readme-stats.vercel.app/api/pin/?username=GaboDevCode&repo=cinemapedia&theme=radical) |
+
 
 ### 🌐 Web (Django/PHP/Full Stack)
 | Proyecto | Descripción | Stats |
 |---------|-------------|--------|
-| [`Proyecto_Web`](https://github.com/G-Kr4V3n) | Proyectos web completos con Django/PHP, bases de datos y despliegue en Render. | Próximamente... |
+| [`GestorCitas`](https://github.com/GaboDevCode/GestorCitas) | Aplicación web hecha con el framework Django para la gestión de citas médicas. | ![Repo stats](https://github-readme-stats.vercel.app/api/pin/?username=GaboDevCode&repo=GestorCitas&theme=radical) |
+
 
 > *Más proyectos en camino...*
 
