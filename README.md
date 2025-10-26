@@ -65,7 +65,7 @@ Especializado en desarrollo móvil con Flutter/Android y desarrollo web full sta
 ### 📱 Mobile (Flutter/Android)
 | Proyecto | Descripción | Stats |
 |---------|-------------|--------|
-| [`PulseTask`](https://github.com/GaboDevCode/Pulse-Task) | Aplicación completa de gestión de proyectos y tareas diseñada para ayudarte a mantener organizados tus proyectos personales y profesionales | ![Repo stats](https://github.com/GaboDevCode/Pulse-Task) |
+| [`PulseTask`](https://github.com/GaboDevCode/Pulse-Task) | Aplicación completa de gestión de proyectos y tareas diseñada para ayudarte a mantener organizados tus proyectos personales y profesionales | ![Repo stats](https://github-readme-stats.vercel.app/api/pin/?username=GaboDevCode&repo=Pulse-Task&theme=radical) |
 
 
 ### 🌐 Web (Django/PHP/Full Stack)
